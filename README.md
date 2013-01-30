@@ -1,6 +1,6 @@
 converter
 =========
-<!DOCtype html>
+<!DOCTYPE html>
 
 <html>
   <title>MPG->KPL Converter</title>
